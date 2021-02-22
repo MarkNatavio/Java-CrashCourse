@@ -22,8 +22,11 @@ Structure:
 3) Inside a method there are statements
 
 Download:
-Go to https://www.java.com/en/download/manual.jsp and select your opperating system
 Download the JDK through https://www.oracle.com/java/technologies/javase-downloads.html
+
+For an IDE I recommend using one of the 2:
+• IntelliJ IDEA CE
+• Visual Studio Code
 
 Lets begin!
 */
